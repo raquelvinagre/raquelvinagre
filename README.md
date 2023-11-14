@@ -1,5 +1,8 @@
-### Hi there 👋
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvinagre&theme=dracula)
+<h1>
+  Hey there!
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2789762%2Fscreenshots%2F8630894%2F0124-cat-animation-3-dribble.gif&f=1&nofb=1&ipt=853c2d9cff32384b1caa6a26db2f995359072b3f4e2a3b218e9aa9643dab7d77&ipo=images)" width="30px"/>
+</h1>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvinagre&theme=catppuccin-mocha)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raquelvinagre&theme=catppuccin-mocha)](https://git.io/streak-stats)
 <!--
 **raquelvinagre/raquelvinagre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
