@@ -1,5 +1,5 @@
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvinagre&theme=dracula)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvinagre&theme=catppuccin-mocha)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raquelvinagre&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 <!--
