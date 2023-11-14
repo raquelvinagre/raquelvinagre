@@ -2,7 +2,7 @@
   Hey there!
 </h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvinagre&theme=catppuccin-mocha)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvinagre&theme=catppuccin-mocha)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raquelvinagre&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 <!--
