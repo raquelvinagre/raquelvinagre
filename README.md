@@ -1,4 +1,4 @@
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelvinagre&theme=catppuccin-mocha&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelvinagre&theme=catppuccin_mocha&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvinagre&theme=dark)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raquelvinagre&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
