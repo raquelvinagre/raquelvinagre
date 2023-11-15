@@ -1,10 +1,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelvinagre&theme=catppuccin_mocha&show_icons=true&height=200px)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvinagre&theme=catppuccin_mocha)
  <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raquelvinagre&theme=catppuccin-mocha)](https://git.io/streak-stats) -->
-<H1>
-OLÁ 🔥 
- 
-</H1>
+<div class="tenor-gif-embed" data-postid="15731367" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/angry-cat-busy-laptop-gif-15731367">Angry Cat GIF</a>from <a href="https://tenor.com/search/angry-gifs">Angry GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
  
 <!--
 **raquelvinagre/raquelvinagre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
