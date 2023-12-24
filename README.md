@@ -1,6 +1,9 @@
 <h1>Raquel Vinagre</h1>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelvinagre&theme=catppuccin_mocha&show_icons=true&height=200px)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvinagre&theme=catppuccin_mocha)
+<div align="center">
+  <a href="https://github.com/raquelvinagre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquelvinagre&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvinagre&layout=compact&langs_count=7&theme=catppuccin_mocha"/>
+</div>
  <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raquelvinagre&theme=catppuccin-mocha)](https://git.io/streak-stats) -->
 
 <!--
