@@ -1,4 +1,1 @@
-<h1>Raquel Vinagre</h1>
-<div align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=raquelvinagre&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=raquelvinagre&include_all_commits=true&theme=transparent)
-</div>
+![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU3dTJxNjY0OTNwZDhvN3l2N2U3dnRndWY0cm5vcXRrY3NtYXlqbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif)
